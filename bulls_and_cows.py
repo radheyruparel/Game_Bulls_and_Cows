@@ -1,7 +1,5 @@
 #
 ##Author: Radhey Ruparel
-##Description: A 2-player code-breaking console game called Bulls and Cows. 
-##This game is related to the code breaking board game Mastermind. 
 ##
 
 #In order for the game to exit and different stages
